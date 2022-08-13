@@ -20,4 +20,4 @@ The extension also helps to manage incoming payments among business partners who
 * Managing online payments based on customer groups in your Magento 2 store becomes easy.
 * Identifying the customer groups from which major revenue is generated and make the efforts in that direction only
 
-For more information, visit ***https://meetanshi.com/magento-2-paypal-account-per-customer-group.html](https://meetanshi.com/magento-2-paypal-account-per-customer-group.html)***
+For more information, visit ***[https://meetanshi.com/magento-2-paypal-account-per-customer-group.html](https://meetanshi.com/magento-2-paypal-account-per-customer-group.html)***
